@@ -18,7 +18,7 @@
 	$('#B_triceraptops').tap(function (e) {
  	 $.mobile.navigate( "#triceraptops" );
 	});
-	$('#B_amargasaurus').tap(function (e) {
- 	 $.mobile.navigate( "#amargasaurus" );
+	$('#acerca').tap(function (e) {
+ 	 $.mobile.navigate( "#acerca1" );
 	});
 });//ready
